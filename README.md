@@ -1,5 +1,6 @@
 # HR-Analytics_PowerBI
-![image](https://github.com/monika-czulak/HR-Analytics_PowerBI/assets/109820128/22a7ad1b-4e20-4e99-b431-d8b71116c6d9)
+![image](https://github.com/monika-czulak/HR-Analytics_PowerBI/assets/109820128/5471c44f-b601-49c1-a173-c55afb529234)
+
 
 ## Purpose
 The core goal of this case study is to build a report using ficticious datasets from a Tech company called Atlas Labs. Atlas Labs HR team want to be able to monitor key metrics on employees. Their secondary goal is to understand what factors impact employee attrition. The topics covered across this case study range from data modeling, through exploratory data analysis, DAX functions and report design.
